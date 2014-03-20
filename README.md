@@ -5,7 +5,7 @@ wasdwm is an extremely fast, small, and dynamic window manager for X.
 
 Requirements
 ------------
-In order to build dwm you need the Xlib header files.
+In order to build wasdwm you need the Xlib header files.
 
 
 Installation
