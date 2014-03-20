@@ -1,0 +1,18 @@
+TODO next release:
+	add icons and a system tray
+	consider providing the option to merge the client and tag bars
+	add the ability to restart without restarting X
+	provide better comments
+	fix variable names left over from dwm - no more 'bh', 'ty', etc., it's 2014
+	
+TODO consider:
+	should we adjust the box drawing behavior for the tag bar? it's not quite consistent with the client bar
+	consider improving the way tags are handled when the number of monitors is reduced
+	get rid of as many global variables as possible
+	investigate the security of strncpy
+	make a rule for marking clients, rethink rules in general
+
+TODO bugs:
+	my compositing manager (compton) sometimes fails - investigate
+	there's probably a bug or two left over from dwm when it comes to multi-monitor support - I haven't been able to reproduce anything, however
+	
